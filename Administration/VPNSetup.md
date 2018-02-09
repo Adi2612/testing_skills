@@ -1,4 +1,4 @@
-# Steps to connect with VPN 
+# Steps to connect with VPN in your android mobile
   # things to Download :-
     1. Download OpenVPN Connect app from google play store in your android mobile.
     2. Download the vpn profile from the given link :-https://drive.google.com/file/d/12olKwReaIkVNMCBn5-faq1KfQtjNZ3gu/
