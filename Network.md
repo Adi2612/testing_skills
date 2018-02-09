@@ -55,7 +55,7 @@
 * I learnt about the different kinds of services provided by the differnet ports.
 * I took help from internet (google) for to learn more about NMAP.
 * I have also finded out the different ports open for a specific ip address :-
-       for example:-  for ip address 14.139.34.43
+       for example:-  for ip address 14.139.34.2
 list of open ports       
 *                     port no.           state        service name 
 *                       22                open           ssh
