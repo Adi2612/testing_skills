@@ -16,5 +16,14 @@
     4. But If you are not connected with internet then it will store the data somewhere So, that when you 
        connect with internet it will automatically first saved the data in google sheet.
        
-       
+# Question 2 :-
+   # things I learnt :-
+     1. The working of VPN and the most important is WHAT IS VPN ? and learnt abnout for what purposes VPNs are used.
+     2. I got a great knowledge about the servers and how different kinds of services are hosted in it on different ports.
+     3. I also hosted my nodejs server on my DigitalOcean droplet.
+     4. And finally I made my own VPN.
+     
+   # helps taken :-
+     1. first I read the documentation of Strisand from github.
+     2. then from google for to understand the basic purpose of VPN. 
        
