@@ -9,3 +9,6 @@
     3. Select the imported profile and tap on the Connect button.
     4. If every thing works fine , then , Whola ! , You are connected with vpn.
     5. You can check this by seeing your public ip in google.
+    
+    
+*note:- if you are connected with some proxied network then it might give you some error.(inconvinence is regretted)
