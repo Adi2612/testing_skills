@@ -54,6 +54,17 @@
 * I learnt about the ports.
 * I learnt about the different kinds of services provided by the differnet ports.
 * I took help from internet (google) for to learn more about NMAP.
+* I have also finded out the different ports open for a specific ip address :-
+       for example:-  for ip address 14.139.34.43
+list of open ports       
+*                     port no.           state        service name 
+*                       22                open           ssh
+*                       53                open           domain
+*                       80                open           http
+*                       443               open           https
+*                       3000              open           ntop http  // 
+*                       10000             open           http   // Miniserv  //admin page 
+
 
 # Question 2 >>>
   
