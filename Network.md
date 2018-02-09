@@ -1,6 +1,7 @@
 
-question 1. -->
-    this are the following ip address which are open to outside at some specific port for some specific protocol:-
+# Question 1. -->
+  
+  this are the following ip address which are open to outside at some specific port for some specific protocol:-
 
    $(1) 14.139.34.2      operating system :-  ubuntu (linux 3.11 - 3.14)
                        
@@ -54,19 +55,16 @@ question 1. -->
 * I learnt about the different kinds of services provided by the differnet ports.
 * I took help from internet (google) for to learn more about NMAP.
 
-//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
-Question 2 >>>
+# Question 2 >>>
+  
   * The Domain "Students.iitmandi.ac.in" has been brought from "Ernet INDIA " , 
   * Only Ernet has right to sell .ac.in domains .
   * I took help from Quora and Whois.domaintools.com to find out the website information .
   
-//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-Question 3 >>>
-  * DuckDuckgo has no data centres ,It is majorly hosted on AWS Amazon Server. I find out this information from a website but I am not sure about it So, In order to confirm this I had a chat with the CEO of duckduckgo.com Gabriel Weinberg but he said that "that information isn't currently public" .
+# Question 3 >>>
   
-//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////  
+  * DuckDuckgo has no data centres ,It is majorly hosted on AWS Amazon Server. I find out this information from a website but I am not sure about it So, In order to confirm this I had a chat with the CEO of duckduckgo.com Gabriel Weinberg but he said that "that information isn't currently public" .
  
   
     
