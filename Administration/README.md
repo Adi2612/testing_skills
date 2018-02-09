@@ -24,6 +24,6 @@
      4. And finally I made my own VPN.
      
    # helps taken :-
-     1. first I read the documentation of Strisand from github.
+     1. first I read the documentation of Streisand from github.
      2. then from google for to understand the basic purpose of VPN. 
        
